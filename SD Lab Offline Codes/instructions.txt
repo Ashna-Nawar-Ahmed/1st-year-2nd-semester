@@ -1,0 +1,17 @@
+1.Draw Japan Flag   ( write a function iJapanFlag() with lower left at (300,300) and size as per your wish)
+2. Draw Italy Flag   ( write a function iItalyFlag() with lower left at (300,300) and size as per your wish)
+3.Draw germany Flag   ( write a function iGermanyFlag() with lower left at (300,300) and size as per your wish)
+4. Morocco flag    (  ( write a function iMoroccoFlag() with lower left at (300,300) and size as per your wish))
+
+1-4 : must follow the measurements given
+
+5. Write a function void iSetColorHexCode(char *hexcode="#FFFFFF") 
+
+   which will convert hex code to double
+   
+   iSetColor("#FEAA01") means iSetColor(254,170,1)
+
+
+*write all those functions in iMain.cpp
+*call them in iDraw to show it
+* a file has been attached. see how I have written iBangladesh() to show Bangladesh flag.
