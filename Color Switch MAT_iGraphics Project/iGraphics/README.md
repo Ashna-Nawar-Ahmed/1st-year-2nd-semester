@@ -7,13 +7,13 @@ Platform: Visual Studio, Language: C
 Some of the images of the game are shown below.
 
 * Welcome page<br><br>
-<img src="images/welcome.png" width="300" height="500">
+<img src="images/welcome.png" height="500">
 
 * Menu page<br><br>
-<img src="images/menu.png" width="300" height="500">
+<img src="images/menu.png" height="500">
 
 * Sample page<br><br>
-<img src="images/sample.jpg" width="300" height="500">
+<img src="images/sample.jpg" height="500">
 
 
 
