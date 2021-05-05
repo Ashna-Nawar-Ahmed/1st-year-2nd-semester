@@ -1,40 +1,24 @@
-# Memory_Lane
-### 2nd year 2nd semester's Android Studio Project 
-It was notebook type Android app that could keep notes, set alarm and also do voice recording. Moreover, user could view the saved notes and recordings later on.
-Platform: Android, Language: Java
+# Color Switch MAT Desktop Game
+### 1st year 2nd semester's iGraphics Project 
+A game in which players need to pass a ball that changes color through different obstacles by matching colors with it. If the player fails to match color then the game is over for that person. Otherwise, they get points. The game contains 3 types of playing modes, Fidget Spinner, Hophop and Classic. The inspiration for the game was taken from the android game of the same name.
 
+Platform: Visual Studio, Language: C
 
-Tasks that can be performed by this app are:
+Some of the images of the game are shown below.
+
 * Welcome page<br><br>
-<img src="images/welcome.jpg" width="300" height="500">
+<img src="images/welcome.png" width="300" height="500">
 
 * Menu page<br><br>
-<img src="images/menu.jpg" width="300" height="500">
+<img src="images/menu.png" width="300" height="500">
 
-* Note List page<br><br>
-<img src="images/notelist.jpg" width="300" height="500">
-
-* Note Taking page<br><br>
-<img src="images/note.jpg" width="300" height="500">
-
-* Alarm page<br><br>
-<img src="images/alarm.jpg" width="300" height="500">
-
-* Alarm clock setting page<br><br>
-<img src="images/alarmclock.jpg" width="300" height="500">
-
-* Recording page<br><br>
-<img src="images/recording.jpg" width="300" height="500">
-
-* Viewing image page<br><br>
-<img src="images/viewimage.jpg" width="300" height="500">
-
-* Information page<br><br>
-<img src="images/info.jpg" width="300" height="500">
+* Sample page<br><br>
+<img src="images/sample.jpg" width="300" height="500">
 
 
 
-Demonstration of taking note using this app is given <a href="https://youtu.be/QGMf9znNMKo">Here</a>.<br>
-Demonstration of setting alarm and viewing image using this app is provided <a href="https://youtu.be/BoAYVxsrEUs">Here</a>.
+
+Demonstration of the game is given <a href="https://youtu.be/EHN9QzNsLPw">Here</a>.<br>
+Instruction for playing the game is provided <a href="https://youtu.be/3iQXPZuHQVE">Here</a>.
 
 
